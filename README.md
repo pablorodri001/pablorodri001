@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablorodri001&show_icons=true&locale=en" alt="pablorodri001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablorodri001&" alt="pablorodri001" /></p>
+
+## 🐍 Snake animation
+
+![snake animation](https://github.com/pablorodri001/pablorodri001/blob/output/snake.svg)
+
