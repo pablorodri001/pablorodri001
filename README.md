@@ -31,7 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablorodri001&" alt="pablorodri001" /></p>
 
-## 🐍 Snake animation
-
-![snake animation](https://github.com/pablorodri001/pablorodri001/blob/output/snake.svg)
-
